@@ -20,4 +20,8 @@ The "Where's Waldo? AI" project uses machine learning techniques to detect Waldo
 1. Download the Dataset from here: https://universe.roboflow.com/tan-rmi/whereiswaldo-ssmol/dataset/1
 2. Download the weights from here: https://drive.google.com/drive/folders/1frst8S5lJDwAnfBQNfSjsnZaJSoTjUTX?usp=sharing
 3. Load the IPYNB file and follow the steps
-4. Test the model yourself by uploading an image you want ( Steps mentioned in the IPYNB file) 
+4. Test the model yourself by uploading an image you want ( Steps mentioned in the IPYNB file)
+
+## Results
+A few results from training the model during development phase :
+
