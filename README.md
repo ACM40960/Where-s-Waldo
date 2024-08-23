@@ -18,6 +18,6 @@ The "Where's Waldo? AI" project uses machine learning techniques to detect Waldo
 ## Installation
 
 1. Download the Dataset from here:
-2. Download the weights from the Repo
+2. Download the weights from here: https://drive.google.com/drive/folders/1frst8S5lJDwAnfBQNfSjsnZaJSoTjUTX?usp=sharing
 3. Load the IPYNB file and follow the steps
 4. Test the model yourself by uploading an image you want ( Steps mentioned in the IPYNB file) 
