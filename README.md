@@ -25,3 +25,4 @@ The "Where's Waldo? AI" project uses machine learning techniques to detect Waldo
 ## Results
 A few results from training the model during development phase :
 
+
