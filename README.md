@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The "Where's Waldo? AI" project uses machine learning techniques to detect Waldo in images. This project leverages the YOLOv5 object detection model to identify Waldo in various images, making it easier to locate him in the classic "Where's Waldo?" puzzles.
+The "Where's Waldo? AI" project uses machine learning techniques to detect Waldo in images. This project leverages the YOLOv5 object detection model to identify Waldo in various images, making it easier to locate him in the classic "Where's Waldo?" puzzles. The motivation behind this project was to put AI into something unorthodox at first and see the possible use cases of it.
 
 ## Features
 
